@@ -1,0 +1,11 @@
+.delivery-collections {
+    background: var(--secondary-bg);
+    width: 100%;
+    padding: 40px 0px;
+  }
+
+  .happy-icon{
+    margin-right: 8px;
+  font-size: 20px;
+  color: var(--hugo-red);
+  }
